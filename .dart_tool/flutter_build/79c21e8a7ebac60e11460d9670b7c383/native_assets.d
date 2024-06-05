@@ -1,0 +1,1 @@
+ /Users/unurjargal/Documents/GitHub/abico_delivery/.dart_tool/flutter_build/79c21e8a7ebac60e11460d9670b7c383/native_assets.yaml: 
